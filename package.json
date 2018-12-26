@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "shared-code": "git+ssh://git@github.com:techakki/SharedCode.git"
   },
   "scripts": {
     "start": "react-scripts start",
